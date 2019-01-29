@@ -22,4 +22,5 @@ This is a project work of Xccelerate Data Science Bootcamp Cohort 3.
     2 models are built:
     * Version 1: K-means to classify TF-IDF matrix of the news articles
     * Version 2: Supervised learning for news articles categorization
-    Skills: nltk, K-means, elbow method, Silhouette Coefficient, tfidf_vectorizer, randomforestclassifier, xgboost, LinearSVC, KNN
+
+    **Skills**: nltk, K-means, elbow method, Silhouette Coefficient, tfidf_vectorizer, randomforestclassifier, xgboost, LinearSVC, KNN
