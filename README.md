@@ -4,7 +4,7 @@
 
 This is a project work of Xccelerate Data Science Bootcamp Cohort 3.
 
-## Project work for Natural Language Processing:
+## Project work for Natural Language Processing
 
 1. Find a document and auto-summarize it. It can be a blog/news article/research paper. Use a machine based approach for this. 
 
